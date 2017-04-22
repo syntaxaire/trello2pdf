@@ -1,0 +1,7 @@
+secrets.cfg
+*.pdf
+bin
+include
+lib
+share
+
